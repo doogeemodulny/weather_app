@@ -1,0 +1,1 @@
+OPENWEATHERMAP_API_KEY = "your code" # you can get it on openweathermap.org/api
